@@ -10,3 +10,11 @@ h1 {
     background-color: orange;
     color: black;
 }
+
+img {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
